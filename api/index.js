@@ -13,6 +13,7 @@ app.set("port", process.env.PORT || 80);
 app.use(require('./routes/index'))
 
 //starting the server
-app.listen((app.get('port')), function () {
-    console.log('listening on 80')
-})
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Running on ${PORT}`);
+});
