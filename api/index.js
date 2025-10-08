@@ -1,19 +1,22 @@
 const express = require('express');
-const app = express();
 const path = require('path');
+const indexRouter = require('./routes/index');
 
+const app = express();
 
-//settings
-app.use(express.static('./frontend'));
-app.set("port", process.env.PORT || 80);
-
-
-
-//routes
-app.use(require('./routes/index'))
-
-//starting the server
+// Settings
 const PORT = process.env.PORT || 3000;
+app.set('port', PORT);
+
+// Middleware
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use(express.static(path.join(__dirname, 'frontend')));
+
+// Routes
+app.use('/', indexRouter);
+
+// Start server
 app.listen(PORT, () => {
-  console.log(`Running on ${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
