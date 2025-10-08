@@ -12,4 +12,6 @@ Some of the many concepts I handle in this project are:
     Audio Handling 
     Image storage
 
-<h2><b>Notes:</h2> This is a fork from elRomanoff's dokidoki webport github, what I'm trying to achieve here is to complete the port completely, since Romanoff left it at day 4.</b>
+<h2><b>Notes:</h2> This is a fork from elRomanoff's dokidoki webport github, what I'm trying to achieve here is to complete the port completely, since Romanoff left it at day 4.
+While also, there might be another fork of the current repository (after I have completed the whole port) where I'm gonna try to "port" it into a web version without the need of a host.
+I can't promise anything, but it's there.</b>
