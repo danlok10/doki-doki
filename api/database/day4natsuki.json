@@ -1,1 +1,748 @@
-[]
+[
+  {
+    "music": "t6",
+    "newBackground": "Club.png",
+    "newCharacter": [
+      {"char": "Natsuki", "charImg": "REQUIRED_4r", "left":true, "new":true, "hide":"non"} // REQUIRED: Natsuki 4r expression sprite
+    ],
+    "content": "Ugh...!",
+    "char": "Natsuki"
+  },
+  {
+    "content": "I hear Natsuki utter an exasperated sigh from within the closet.",
+    "char": "nobody"
+  },
+  {
+    "content": "She seems to be annoyed by something.",
+    "char": "nobody"
+  },
+  {
+    "content": "I approach her, in case she needs a hand.",
+    "char": "nobody"
+  },
+  {
+    "music": "t6",
+    "newBackground": "Closet.png",
+    "newCharacter": [
+      {"char":"Natsuki", "charImg":"REQUIRED_4r", "left":true, "new":true, "hide":"non"}
+    ],
+    "content": "",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "You looking for something in there?"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_4x", // REQUIRED: Natsuki 4x (glitch/angry) face
+    "font": "glitch", // Switch to glitch/edited font here
+    "content": "fucking monikammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm" // 
+  },
+  {
+    "char": "Natsuki",
+    "content": "Freaking Monika..." // Use normal font
+  },
+  {
+    "char": "Natsuki",
+    "content": "She never puts my stuff back in the right spot!"
+  },
+  {
+    "char": "Natsuki",
+    "content": "What's the point in keeping your collection organized if someone else is just gonna mess it up?"
+  },
+  {
+    "content": "Natsuki slides a bunch of stacked books and boxes across the shelf.",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "Manga..."
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_2c", // REQUIRED: Natsuki 2c
+    "content": "You read manga, right?"
+  },
+  {
+    "char": "you",
+    "content": "Ah--"
+  },
+  {
+    "char": "you",
+    "content": "...Sometimes..."
+  },
+  {
+    "content": "Manga is one of those things where you can't admit you're really into it until you figure out where the other person stands.",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "...How did you know, anyway?"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_2k", // REQUIRED: Natsuki 2k
+    "content": "I heard you bring it up at some point."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Besides, it's kind of written on your face."
+  },
+  {
+    "content": "What's that supposed to mean...?",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "I-I see..."
+  },
+  {
+    "content": "There's a lone volume of manga amidst a stack of various books on the side of one of the shelves.",
+    "char": "nobody"
+  },
+  {
+    "content": "Curious, I pull it out of the stack.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_1b", // REQUIRED: Natsuki 1b
+    "content": "{i}There{/i} it is!"
+  },
+  {
+    "content": "Natsuki snatches it out of my hand.",
+    "char": "nobody"
+  },
+  {
+    "content": "She then turns to a box of manga and slips the volume right into the middle of the rest.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_4d", // REQUIRED: Natsuki 4d
+    "content": "Aah, much better!"
+  },
+  {
+    "char": "Natsuki",
+    "content": "Seeing a box set with one book missing is probably the most irritating sight in the world."
+  },
+  {
+    "char": "you",
+    "content": "I know that feel..."
+  },
+  {
+    "content": "I get a closer look at the box set she's admiring.",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "Parfait Girls...?"
+  },
+  {
+    "content": "It's a series I've never heard of in my life.",
+    "char": "nobody"
+  },
+  {
+    "content": "That probably means it's either way out of my demographic, or it's simply terrible.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_5g", // REQUIRED: Natsuki 5g
+    "content": "If you're gonna judge, you can go do it through the glass on that door."
+  },
+  {
+    "content": "She points to the classroom door.",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "H-Hey, I wasn't judging anything...!"
+  },
+  {
+    "char": "you",
+    "content": "I didn't even say anything."
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_5c", // REQUIRED: Natsuki 5c
+    "content": "It was the tone of your voice."
+  },
+  {
+    "char": "Natsuki",
+    "usesVar": true,
+    "content": "But I'll tell you one thing, #var."
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_4l", // REQUIRED: Natsuki 4l
+    "content": "Consider this a lesson straight from the Literature Club:{nw}"
+  },
+  {
+    "char": "Natsuki",
+    "content": "Consider this a lesson straight from the Literature Club: Don't judge a book by its cover!"
+  },
+  {
+    "char": "Natsuki", // Implement glitched font here
+    "content": "don't judge a bookkkkkkkkkkkkkkkkk kkkkk kk                    k                                        k                                                                                                                        k                                                                                                                                                                k                                                                                                                                                                                                        k"
+  },
+  {
+    "char": "Natsuki", // Revert back to the normal font
+    "content": "In fact--"
+  },
+  {
+    "content": "Natsuki pulls out the first volume of Parfait Girls from the box.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "content": "I'm gonna show you exactly why!"
+  },
+  {
+    "content": "She shoves the book right into my hands.",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "Ah..."
+  },
+  {
+    "content": "I stare at the cover.",
+    "char": "nobody"
+  },
+  {
+    "content": "It features four girls in colorful attire striking animated feminine poses.",
+    "char": "nobody"
+  },
+  {
+    "content": "It's...exceedingly 'moe'.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_4b", // REQUIRED: Natsuki 4b
+    "content": "Don't just stand there!"
+  },
+  {
+    "char": "you",
+    "content": "Uwa--"
+  },
+  {
+    "content": "Natsuki grabs my arm and pulls me out of the closet.",
+    "char": "nobody"
+  },
+  {
+    "content": "She then takes a seat against the wall, beneath the windowsills.",
+    "char": "nobody"
+  },
+  {
+    "content": "She pats on the ground next to her, signaling me to sit there.",
+    "char": "nobody"
+  },
+  {
+    "newBackground": "Club.png",
+    "newCharacter": [
+      {"char": "Natsuki", "charImg": "REQUIRED_2a", "left":true, "new":true, "hide":"non"} // REQUIRED: Natsuki 2a
+    ],
+    "content": "",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "Wouldn't chairs be more comfortable...?"
+  },
+  {
+    "content": "I take my seat.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_2k", // REQUIRED: Natsuki 2k
+    "content": "Chairs wouldn't work."
+  },
+  {
+    "char": "Natsuki",
+    "content": "We can't read at the same time like that."
+  },
+  {
+    "char": "you",
+    "content": "Eh? Why's that?"
+  },
+  {
+    "char": "you",
+    "content": "Ah...I guess it's easier to be close together like this..."
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_2o", // REQUIRED: Natsuki 2o
+    "content": "--!"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_5r", // REQUIRED: Natsuki 5r
+    "content": "D-Don't just say that!"
+  },
+  {
+    "char": "Natsuki",
+    "content": "You'll make me feel weird about it!"
+  },
+  {
+    "content": "Natsuki crosses her arms and scootches an inch away from me.",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "Sorry..."
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_5g", // REQUIRED: Natsuki 5g
+    "content": ""
+  },
+  {
+    "content": "I didn't exactly expect to be sitting this close to her, either...",
+    "char": "nobody"
+  },
+  {
+    "content": "Not that I can say it's a particularly bad thing.",
+    "char": "nobody"
+  },
+  {
+    "content": "I open the book.",
+    "char": "nobody"
+  },
+  {
+    "content": "It's only a few seconds before Natsuki once again inches closer, reclaiming the additional space while she hopes I won't notice.",
+    "char": "nobody"
+  },
+  {
+    "content": "I can feel her peering over my shoulder, much more eager to begin reading than I am.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_1k", // REQUIRED: Natsuki 1k
+    "content": "Wow, how long has it been since I read the beginning...?"
+  },
+  {
+    "char": "you",
+    "content": "Hm?"
+  },
+  {
+    "char": "you",
+    "content": "You don't go back and flip through the older volumes every now and then?"
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_2k", // REQUIRED: Natsuki 2k (repeat)
+    "content": "Not really."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Maybe sometimes after I've already finished the series."
+  },
+  {
+    "char": "Natsuki",
+    "charImg":"REQUIRED_2c", // REQUIRED: Natsuki 2c (repeat)
+    "content": "Hey, are you paying attention?"
+  },
+  {
+    "char": "you",
+    "content": "Uh..."
+  },
+  {
+    "content": "I am, but nothing's really happened yet, so I can talk at the same time.",
+    "char": "nobody"
+  },
+  {
+    "content": "It looks like it's about a bunch of friends in high school.",
+    "char": "nobody"
+  },
+  {
+    "content": "Typical slice-of-life affair.",
+    "char": "nobody"
+  },
+  {
+    "content": "I kind of grew out of these, since it's rare for the writing to be entertaining enough to make up for the lack of plot.",
+    "char": "nobody"
+  },
+  {
+    "newBackground": "REQUIRED_n_cg1_bg", // REQUIRED: CG background for reading scene
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_base", "new": true} // REQUIRED: Base CG image for Natsuki reading
+    ],
+    "content": "",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "...Are you sure this isn't boring for you?"
+  },
+  {
+    "char": "Natsuki", 
+    "content": "It's not!"
+  },
+  {
+    "char": "you",
+    "content": "Even though you're just watching me read?"
+  },
+  {
+    "char": "Natsuki",
+    "content": "Well...!"
+  },
+  {
+    "char": "Natsuki",
+    "content": "I'm...fine with that."
+  },
+  {
+    "char": "you",
+    "content": "If you say so..."
+  },
+  {
+    "char": "you",
+    "content": "...I guess it's fun sharing something you like with someone else."
+  },
+  {
+    "char": "you",
+    "content": "I always get excited when I convince any of my friends to pick up a series I enjoy."
+  },
+  {
+    "char": "you",
+    "content": "You know what I mean?"
+  },
+  {
+    "char": "Natsuki",
+    "content": "...?"
+  },
+  {
+    "char": "you",
+    "content": "Hm?"
+  },
+  {
+    "char": "you",
+    "content": "You don't?"
+  },
+  {
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_exp2", "new": true} // REQUIRED: Natsuki expression 2 CG
+    ],
+    "char": "Natsuki",
+    "content": "Um..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "That's not..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Well, I wouldn't really know."
+  },
+  {
+    "char": "you",
+    "content": "...What do you mean?"
+  },
+  {
+    "char": "you",
+    "content": "Don't you share your manga with your friends?"
+  },
+  {
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_exp3", "new": true} // REQUIRED: Natsuki expression 3 CG
+    ],
+    "char": "Natsuki",
+    "content": "Could you not rub it in?"
+  },
+  {
+    "char": "Natsuki",
+    "content": "Jeez..."
+  },
+  {
+    "char": "you",
+    "content": "Ah... Sorry..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Hmph."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Like I could ever get my friends to read this..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "They just think manga is for kids."
+  },
+  {
+    "char": "Natsuki",
+    "content": "I can't even bring it up without them being all like..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "'Eh? You still haven't grown out of that yet?'"
+  },
+  {
+    "char": "Natsuki",
+    "content": "Makes me want to punch them in the face..."
+  },
+  {
+    "char": "you",
+    "content": "Urgh, I know those kinds of people..."
+  },
+  {
+    "char": "you",
+    "content": "Honestly, it takes a lot of effort to find friends who don't judge, much less friends who are also into it..."
+  },
+  {
+    "char": "you",
+    "content": "I'm already kind of a loser, so I guess I gravitated toward the other losers over time."
+  },
+  {
+    "char": "you",
+    "content": "But it's probably harder for someone like you..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Hm."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Yeah, that's pretty accurate."
+  },
+  {
+    "content": "{i}...Wait, which part??{/i}",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "content": "I mean, I feel like I can't even keep it in my own room..."
+  },
+  {
+    "char": "Natsuki", // switch to glitch font
+    "content": "My dad would beat the shit out of me if he found this."
+  },
+  {
+    "char": "Natsuki",
+    "content": "I don't even know what my dad would do if he found this." // Revert to normal font
+  },
+  {
+    "char": "Natsuki",
+    "content": "At least it's safe here in the clubroom."
+  },
+  {
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_exp3", "new": true} // REQUIRED: Natsuki annoyed CG expression
+    ],
+    "char": "Natsuki",
+    "content": "'Cept Monika's kind of a jerk about it..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Ugh! I just can't win, can I?"
+  },
+  {
+    "char": "you",
+    "content": "Well, it paid off in the end, didn't it?"
+  },
+  {
+    "char": "you",
+    "content": "I mean, here I am, reading it."
+  },
+  {
+    "char": "Natsuki",
+    "content": "Well, it's not like that solves any of my problems."
+  },
+  {
+    "char": "you",
+    "content": "Maybe..."
+  },
+  {
+    "char": "you",
+    "content": "But at least you're enjoying yourself, right?"
+  },
+  {
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_exp2", "new": true} // REQUIRED: Natsuki shy CG expression
+    ],
+    "char": "Natsuki",
+    "content": "--"
+  },
+  {
+    "char": "Natsuki",
+    "content": "..."
+  },
+  {
+    "char": "Natsuki",
+    "content": "...So?"
+  },
+  {
+    "char": "you",
+    "content": "Ahaha."
+  },
+  {
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_exp3", "new": true} // REQUIRED: Natsuki annoyed CG expression
+    ],
+    "char": "Natsuki",
+    "content": "Jeez, that's enough!"
+  },
+  {
+    "char": "Natsuki",
+    "content": "Are you gonna keep reading, or what?"
+  },
+  {
+    "char": "you",
+    "content": "Yeah, yeah..."
+  },
+  {
+    "content": "I flip the page.",
+    "char": "nobody"
+  },
+  {
+    "content": "...",
+    "char": "nobody"
+  },
+  {
+    "content": "...",
+    "char": "nobody"
+  },
+  {
+    "content": ".....",
+    "char": "nobody"
+  },
+  {
+    "content": ".......",
+    "char": "nobody"
+  },
+  {
+    "content": ".........",
+    "char": "nobody"
+  },
+  {
+    "content": "Time passes.",
+    "char": "nobody"
+  },
+  {
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_exp4", "new": true} // REQUIRED: Natsuki tired CG expression
+    ],
+    "char": "nobody",
+    "content": "Natsuki is strangely quiet now."
+  },
+  {
+    "content": "I glance over at her.",
+    "char": "nobody"
+  },
+  {
+    "content": "It looks like she's started to fall asleep.",
+    "char": "nobody"
+  },
+  {
+    "char": "you",
+    "content": "Hey, Natsuki..."
+  },
+  {
+    "newCharacter": [
+      {"char": "REQUIRED_n_cg1_exp5", "new": true} // REQUIRED: Natsuki drowsy CG expression
+    ],
+    "char": "Natsuki",
+    "content": "Y-Yeah...?"
+  },
+  {
+    "content": "Suddenly, Natsuki collapses straight into me.",
+    "char": "nobody"
+  },
+  {
+    "sound": "fall",
+    "char": "you",
+    "content": "H-Hey--"
+  },
+  {
+    "newBackground": "REQUIRED_n_cg1b", // REQUIRED: Darker/glitched version of reading CG and switch to glitch font
+    "char": "Natsuki",
+    "content": "[GLITCHED_TEXT_96_CHARS]" // Should be replaced with 96 random characters which I'll be slamming my keyboard to do later on
+  },
+  {
+    "char": "Natsuki", 
+    "content": "[GLITCHED_TEXT_96_CHARS]" // Should be replaced with 96 bla bla bla
+  },
+  {
+    "music": "stop",
+    "newBackground": "Club.png",
+    "newCharacter": [
+      {"char": "Monika", "charImg": "Mon1r", "new": true} // REQUIRED: Monika concerned expression
+    ],
+    "char": "Monika",
+    "content": "Oh jeez..."
+  },
+  {
+    "char": "Monika",
+    "charImg": "Mon1d", // REQUIRED: Monika worried expression
+    "content": "Natsuki, are you okay?"
+  },
+  {
+    "newCharacter": [
+      {"char": "Natsuki", "charImg": "REQUIRED_12b", "new": true} // REQUIRED: Natsuki dazed expression
+    ],
+    "char": "Natsuki",
+    "content": "..."
+  },
+  {
+    "char": "Monika",
+    "charImg": "Mon1a", // REQUIRED: Monika normal expression
+    "content": "Here..."
+  },
+  {
+    "content": "Monika reaches into her bag and pulls out some kind of protein bar.",
+    "char": "nobody"
+  },
+  {
+    "content": "She throws it in Natsuki's direction.",
+    "char": "nobody" 
+  },
+  {
+    "content": "Natsuki's eyes suddenly light up again.",
+    "char": "nobody"
+  },
+  {
+    "content": "She snatches the bar from the floor and immediately tears off the wrapper.",
+    "char": "nobody"
+  },
+  {
+    "char": "Natsuki",
+    "charImg": "REQUIRED_1s", // REQUIRED: Natsuki embarrassed expression
+    "content": "I told you not to give mmph..."
+  },
+  {
+    "content": "She doesn't even finish her sentence before stuffing it into her mouth.",
+    "char": "nobody"
+  },
+  {
+    "char": "Monika",
+    "charImg": "Mon3b", // REQUIRED: Monika explaining expression
+    "content": "Don't worry, #var.",
+    "usesVar": true
+  },
+  {
+    "char": "Monika",
+    "content": "She's fine."
+  },
+  {
+    "char": "Monika",
+    "content": "It just happens every now and then."
+  },
+  {
+    "char": "Monika",
+    "charImg": "Mon1a", // REQUIRED: Monika normal expression
+    "content": "That's why I always keep a snack in my bag for her."
+  },
+  {
+    "char": "Monika",
+    "charImg": "Mon5a", // REQUIRED: Monika cheerful expression
+    "content": "Anyway...!"
+  },
+  {
+    "char": "Monika",
+    "content": "Why don't we all share poems now?"
+  }
+]
