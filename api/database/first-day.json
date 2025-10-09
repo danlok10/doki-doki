@@ -15,7 +15,7 @@
     "char":"nobody"
 },
 {
-    "content": "You know, the kind of friend you'd never see yourself making today, but it just kind of works out becouse you've known each other for so long?",
+    "content": "You know, the kind of friend you'd never see yourself making today, but it just kind of works out because you've known each other for so long?",
     "char":"nobody"
 },
 {
@@ -36,7 +36,7 @@
     "charImg":"Ori16.png"
 },
 {
-    "content": "I oversleept again!",
+    "content": "I overslept again!",
     "char": "Sayori"
 },
 {
@@ -44,7 +44,7 @@
     "char": "Sayori"
 },
 {
-    "content": "Maybe, but only becouse I decided to stop and wait for you.",
+    "content": "Maybe, but only because I decided to stop and wait for you.",
     "char":"you"
 },
 {
@@ -115,7 +115,7 @@
     "char": "you"
 },
 {
-    "content":"I told you already, I'm not interested in joining any clubs.",
+    "content":"I told you already, I'm really not interested in joining any clubs.",
     "char":"you"
 },
 {
@@ -295,7 +295,7 @@
 },
 {
     "char": "you",
-    "content": "There is no way I'm going to your club."
+    "content": "...There is no way I'm going to your club."
 },
 {
     "char":"Sayori",
@@ -310,11 +310,11 @@
 },
 {
     "char":"nobody",
-    "content":"Sayori is vice president of the Literature Club"
+    "content":"Sayori is vice president of the Literature Club."
 },
 {
     "char": "nobody",
-    "content":"Not that I was ever aware that she had any interest in literature"
+    "content":"Not that I was ever aware that she had any interest in literature."
 },
 {
     "char": "nobody",
@@ -369,7 +369,7 @@
 },
 {
     "char": "you",
-    "content": "Fine...I'll stop by for a cupcake, okay?"
+    "content": "Fine... I'll stop by for a cupcake, okay?"
 },
 {
     "char": "Sayori",
@@ -469,7 +469,7 @@
 },
 {
     "char": "nobody",
-    "content":"All words scape me in this situation"
+    "content":"All words escape me in this situation"
 },
 {
     "char": "nobody",
@@ -533,7 +533,7 @@
 },
 {
     "char":"nobody",
-    "content":"The girl with the sour actitude, whose name is apparently Natsuki, is one I don't recognize.",
+    "content":"The girl with the sour attitude, whose name is apparently Natsuki, is one I don't recognize.",
     "animation": [
         {
             "direction": "height",
@@ -547,7 +547,7 @@
 },
 {
     "char": "nobody",
-    "content": "She is also the one who made cupcakes, acording to Sayori."
+    "content": "She is also the one who made cupcakes, according to Sayori."
 },
 {
     "char":"Sayori",
@@ -565,7 +565,7 @@
 },
 {
     "char":"Sayori",
-    "content":"Anyway! This is Natsuki, allways full of energy!",
+    "content":"Anyway! This is Natsuki, always full of energy!",
     "newCharacter":[{"char": "Sayori", "charImg":"Say24.png", "comment":"arreglar esta imagen de sayori de vuelta"}]
 },
 {
@@ -641,7 +641,7 @@
 },
 {
     "char":"nobody",
-    "content":"Basically, completly out of my league."
+    "content":"Basically, completely out of my league."
 },
 {
     "char": "nobody",
@@ -671,7 +671,7 @@
 },
 {
     "char":"Sayori",
-    "content":"Sorry, I got a little too exited~",
+    "content":"Sorry, I got a little too excited~",
     "newCharacter":[{
         "char":"Sayori","hide":"non","charImg": "3a.png"
     }],
@@ -819,7 +819,7 @@
 },
 {
     "char":"nobody",
-    "content":"I can't help but notice her sneaking blances in my direction"
+    "content":"I can't help but notice her sneaking glances in my direction"
 },
 {
     "char":"nobody",
@@ -847,7 +847,7 @@
 },
 {
     "char":"nobody",
-    "content":"Haven't I heard it before?"
+    "content":"Haven't I heard this somewhere before...?"
 },
 {
     "char": "Natsuki",
@@ -968,7 +968,7 @@
 },
 {
     "char":"you",
-    "content":"Well, I haven't joined any clubs yet, adn Sayori seemed really happy here, so..."
+    "content":"Well, I haven't joined any clubs yet, and Sayori seemed really happy here, so..."
 },
 {
     "char":"Monika",
@@ -1007,7 +1007,7 @@
     "content":"To be honest, I can't stand all of the politics around the major clubs."
 },
 {
-    "content":"It feels like nothing but arguing about the budget and publicity and how to prepare for events"
+    "content":"It feels like nothing but arguing about the budget and publicity and how to prepare for events..."
 },
 {
     "content":"I'd much rather take something I personally enjoy and make something special out of it."
